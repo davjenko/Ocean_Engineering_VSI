@@ -1,4 +1,4 @@
-##Python code for final models in Comprehensive Prediction of Subaerial Landslide-Tsunamis via Slide Model- and Water Body Geometry-Invariant Machine Learning Techniques.
+#Python code for final models in Comprehensive Prediction of Subaerial Landslide-Tsunamis via Slide Model- and Water Body Geometry-Invariant Machine Learning Techniques.
 
 Each labelled folder contains Python code to define the final model created for each prediction variable, the normalised testing data set, and the model definition and weights files.
 
