@@ -3,8 +3,16 @@ System requirements:
 - Python >= 3.6.12
 
 Python requirements for Transformer-based models:
-
-
+- Pytorch == 1.13.1
+- tab-transformer-pytorch == 0.2.5
+- numpy == 1.21.6
+- pandas == 1.3.5
+- matplotlib == 3.5.3
+- seaborn == 0.12.2
+- natsort == 8.3.1
+- scipy == 1.7.3
+- scikit-learn == 1.0.2
+- pickle == 0.7.5
 
 
 Python requirements for all other models:
